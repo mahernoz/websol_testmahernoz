@@ -1,0 +1,2 @@
+docker build -t mahernoz-node-app .
+docker run -p 3000:3000 mahernoz-node-app
